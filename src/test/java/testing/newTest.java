@@ -5,6 +5,8 @@ public class newTest {
 	{
 		System.out.println(" hi bye gitstatus");
 		System.out.println("hello");
+		System.out.println("byee");
+		System.out.println("new github");
 	}
 
 }
